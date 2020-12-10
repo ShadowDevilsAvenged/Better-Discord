@@ -1,2 +1,2 @@
-fix guild glow 
-New Donator Sleepy! 
+Code Clean up by ShadowDevilsAvenged 
+Bug Fixes 
