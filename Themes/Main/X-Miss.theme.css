@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/IZltupq.jpg);
-  --Settings-Background: url(https://nfld99.com/Bkg/IZltupq.jpg);
-  --Callout-Background: url(https://nfld99.com/Bkg/IZltupq.jpg);
+  --Chat-Background: url(https://w.wallhaven.cc/full/4y/wallhaven-4y119g.jpg);
+  --Settings-Background: url(https://w.wallhaven.cc/full/4y/wallhaven-4y119g.jpg);
+  --Callout-Background: url(https://w.wallhaven.cc/full/4y/wallhaven-4y119g.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " X-Miss";
   --Chat-Font-Used: "Whitney";
@@ -70,7 +70,7 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.43;
+  --Background-Darkness: 0.77;
 }
 *:not(.markup):not(em){
 	color:green!important;

@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/hPxFDH0.png);
-  --Settings-Background: url(https://nfld99.com/Bkg/hPxFDH0.png);
-  --Callout-Background: url(https://nfld99.com/Bkg/hPxFDH0.png);
+  --Chat-Background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efd13ae1-bcde-4886-9d88-b2ea56799bdb/d5rnfgn-72430d3b-2eee-4c2d-aedb-a7d9c74d9eac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZWZkMTNhZTEtYmNkZS00ODg2LTlkODgtYjJlYTU2Nzk5YmRiXC9kNXJuZmduLTcyNDMwZDNiLTJlZWUtNGMyZC1hZWRiLWE3ZDljNzRkOWVhYy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.9izdS-DEEsma6TRYu85N_SI1ABhFai5ADDCgNNbrPaE);
+  --Settings-Background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efd13ae1-bcde-4886-9d88-b2ea56799bdb/d5rnfgn-72430d3b-2eee-4c2d-aedb-a7d9c74d9eac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZWZkMTNhZTEtYmNkZS00ODg2LTlkODgtYjJlYTU2Nzk5YmRiXC9kNXJuZmduLTcyNDMwZDNiLTJlZWUtNGMyZC1hZWRiLWE3ZDljNzRkOWVhYy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.9izdS-DEEsma6TRYu85N_SI1ABhFai5ADDCgNNbrPaE);
+  --Callout-Background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efd13ae1-bcde-4886-9d88-b2ea56799bdb/d5rnfgn-72430d3b-2eee-4c2d-aedb-a7d9c74d9eac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZWZkMTNhZTEtYmNkZS00ODg2LTlkODgtYjJlYTU2Nzk5YmRiXC9kNXJuZmduLTcyNDMwZDNiLTJlZWUtNGMyZC1hZWRiLWE3ZDljNzRkOWVhYy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.9izdS-DEEsma6TRYu85N_SI1ABhFai5ADDCgNNbrPaE);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Portal Orange";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0;
+  --Background-Darkness: 0.4;
 }
