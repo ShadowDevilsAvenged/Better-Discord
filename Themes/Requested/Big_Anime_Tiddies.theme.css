@@ -38,20 +38,20 @@
 /* Use Chat Bubbles By Shiz */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 :root {
-  --Main-Colour: rgba(155,185,228,1);
+  --Main-Colour: rgb(54, 47, 190);
   --Background-Colour: rgba(0,0,0,1);
   --Secondary-Background-Colour: rgba(0,0,0,.3);
-  --Secondary-Main-Colour: rgba(155,185,228,.5);
+  --Secondary-Main-Colour: rgba(66, 57, 236, 0.5);
   --Text-Shadow-Colour: rgba(0,0,0,.35);
   --Scroller-Colour: rgba(155,185,228,0);
-  --Notification-Colour: rgba(155,185,228,1);
+  --Notification-Colour: rgb(76, 67, 247);
   --Chat-Input-Background: rgba(0,0,0,0);
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/eXgmpCw.jpg);
-  --Settings-Background: url(https://nfld99.com/Bkg/eXgmpCw.jpg);
-  --Callout-Background: url(https://nfld99.com/Bkg/eXgmpCw.jpg);
+  --Chat-Background: url(https://i.imgur.com/Q4ndYke.jpg);
+  --Settings-Background: url(https://i.imgur.com/Q4ndYke.jpg);
+  --Callout-Background: url(https://i.imgur.com/Q4ndYke.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Big Anime Tiddies";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.43;
+  --Background-Darkness: 0.7;
 }

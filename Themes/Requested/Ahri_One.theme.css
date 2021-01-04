@@ -38,20 +38,20 @@
 /* Use Chat Bubbles By Shiz */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 :root {
-  --Main-Colour: rgba(246,142,139,1);
-  --Background-Colour: rgba(62,41,77,1);
-  --Secondary-Background-Colour: rgba(62,41,77,.3);
-  --Secondary-Main-Colour: rgba(246,142,139,.5);
+  --Main-Colour: rgb(231, 32, 25);
+  --Background-Colour: rgb(27, 16, 34);
+  --Secondary-Background-Colour: rgba(32, 17, 43, 0.3);
+  --Secondary-Main-Colour: rgba(160, 56, 56, 0.5);
   --Text-Shadow-Colour: rgba(0,0,0,.65);
   --Scroller-Colour: rgba(246,142,139,0);
-  --Notification-Colour: rgba(246,142,139,1);
+  --Notification-Colour: rgb(238, 44, 38);
   --Chat-Input-Background: rgba(0,0,0,0);
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/ni94kz7.jpg);
-  --Settings-Background: url(https://nfld99.com/Bkg/ni94kz7.jpg);
-  --Callout-Background: url(https://nfld99.com/Bkg/ni94kz7.jpg);
+  --Chat-Background: url(https://images3.alphacoders.com/879/879000.png);
+  --Settings-Background: url(https://images3.alphacoders.com/879/879000.png);
+  --Callout-Background: url(https://images3.alphacoders.com/879/879000.png);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Ahri One";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.7;
 }
