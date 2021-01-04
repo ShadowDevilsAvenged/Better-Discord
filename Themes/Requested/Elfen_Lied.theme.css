@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/ej09T3v.png);
-  --Settings-Background: url(https://nfld99.com/Bkg/ej09T3v.png);
-  --Callout-Background: url(https://nfld99.com/Bkg/ej09T3v.png);
+  --Chat-Background: url(https://www.wykop.pl/cdn/c3201142/comment_bTy7M9g4Rz1UUQDmlJeaqG9OCEfDf3Za.jpg);
+  --Settings-Background: url(https://www.wykop.pl/cdn/c3201142/comment_bTy7M9g4Rz1UUQDmlJeaqG9OCEfDf3Za.jpg);
+  --Callout-Background: url(https://www.wykop.pl/cdn/c3201142/comment_bTy7M9g4Rz1UUQDmlJeaqG9OCEfDf3Za.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Elfen Lied";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.57;
+  --Background-Darkness: 0.65;
 }

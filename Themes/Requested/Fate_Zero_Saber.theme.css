@@ -38,20 +38,20 @@
 /* Use Chat Bubbles By Shiz */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 :root {
-  --Main-Colour: rgba(127,233,252,1);
+  --Main-Colour: rgb(37, 66, 228);
   --Background-Colour: rgba(0,0,10,1);
   --Secondary-Background-Colour: rgba(0,0,10,.3);
-  --Secondary-Main-Colour: rgba(127,233,252,.5);
+  --Secondary-Main-Colour: rgba(36, 113, 255, 0.671);
   --Text-Shadow-Colour: rgba(0,0,0,.65);
   --Scroller-Colour: rgba(127,233,252,0);
-  --Notification-Colour: rgba(127,233,252,1);
+  --Notification-Colour: rgb(41, 73, 255);
   --Chat-Input-Background: rgba(0,0,0,0);
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/Yg20yEe.jpg);
-  --Settings-Background: url(https://nfld99.com/Bkg/Yg20yEe.jpg);
-  --Callout-Background: url(https://nfld99.com/Bkg/Yg20yEe.jpg);
+  --Chat-Background: url(http://getwallpapers.com/wallpaper/full/7/c/f/63820.jpg#.X_OS1fEoRr4.link);
+  --Settings-Background: url(http://getwallpapers.com/wallpaper/full/7/c/f/63820.jpg#.X_OS1fEoRr4.link);
+  --Callout-Background: url(http://getwallpapers.com/wallpaper/full/7/c/f/63820.jpg#.X_OS1fEoRr4.link);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Fate Zero Saber";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.7;
 }

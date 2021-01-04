@@ -38,18 +38,18 @@
 /* Use Chat Bubbles By Shiz */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 :root {
-  --Main-Colour: rgba(243,186,218,1);
-  --Background-Colour: rgba(42,31,27,1);
-  --Secondary-Background-Colour: rgba(42,31,27,.3);
-  --Secondary-Main-Colour: rgba(243,186,218,.5);
+  --Main-Colour: rgb(240, 79, 51);
+  --Background-Colour: rgb(63, 170, 161);
+  --Secondary-Background-Colour: rgba(74, 156, 149, 0.4);
+  --Secondary-Main-Colour: rgba(255, 95, 46, 0.5);
   --Text-Shadow-Colour: rgba(42,31,27,.35);
   --Scroller-Colour: rgba(243,186,218,0);
-  --Notification-Colour: rgba(243,186,218,1);
+  --Notification-Colour: rgb(252, 106, 80);
   --Chat-Input-Background: rgba(42,31,27,0);
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/wU9HOe6.png);
+  --Chat-Background: url(https://i.redd.it/ru4azspi85a01.jpg);
   --Settings-Background: url(https://nfld99.com/Bkg/wU9HOe6.png);
   --Callout-Background: url(https://nfld99.com/Bkg/wU9HOe6.png);
   --Title-Background: var(--Background-Colour);
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.43;
+  --Background-Darkness: 0.63;
 }
