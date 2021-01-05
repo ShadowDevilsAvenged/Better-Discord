@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/iYoXwU1.png);
-  --Settings-Background: url(https://nfld99.com/Bkg/iYoXwU1.png);
-  --Callout-Background: url(https://nfld99.com/Bkg/iYoXwU1.png);
+  --Chat-Background: url(http://pm1.narvii.com/7084/2e00e34673c21e458aa8b3455c29ab8ef4f86446r1-900-577v2_uhq.jpg);
+  --Settings-Background: url(http://pm1.narvii.com/7084/2e00e34673c21e458aa8b3455c29ab8ef4f86446r1-900-577v2_uhq.jpg);
+  --Callout-Background: url(http://pm1.narvii.com/7084/2e00e34673c21e458aa8b3455c29ab8ef4f86446r1-900-577v2_uhq.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Fur Friends";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.65;
 }

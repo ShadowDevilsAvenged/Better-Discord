@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/tnwmjWC.jpg);
-  --Settings-Background: url(https://nfld99.com/Bkg/tnwmjWC.jpg);
-  --Callout-Background: url(https://nfld99.com/Bkg/tnwmjWC.jpg);
+  --Chat-Background: url(https://images8.alphacoders.com/976/976896.png);
+  --Settings-Background: url(https://images8.alphacoders.com/976/976896.png);
+  --Callout-Background: url(https://images8.alphacoders.com/976/976896.png);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Hotline Miami";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.6;
 }
