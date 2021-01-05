@@ -48,10 +48,10 @@
   --Chat-Input-Background: rgba(0,0,0,0);
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
-  --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url("https://nfld99.com/Bkg/w7UVsOs.jpg");
-  --Settings-Background: url("https://nfld99.com/Bkg/NUhSyNd.jpg");
-  --Callout-Background: url(https://nfld99.com/Bkg/eeDIMtw.jpg);
+  --Unread-Message-2: var(--Background-Colour);
+  --Chat-Background: url("https://i.imgur.com/w7UVsOs.jpg");
+  --Settings-Background: url("https://i.imgur.com/w7UVsOs.jpg");
+  --Callout-Background: url(https://i.imgur.com/w7UVsOs.jpg);
   --Title-Background: rgba(50, 42, 88, 0.64);
   --Theme-Variant: " ReZero ReDone";
   --Chat-Font-Used: "Whitney";

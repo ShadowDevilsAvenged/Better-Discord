@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/omx30Ke.jpg);
-  --Settings-Background: url(https://nfld99.com/Bkg/omx30Ke.jpg);
-  --Callout-Background: url(https://nfld99.com/Bkg/omx30Ke.jpg);
+  --Chat-Background: url(https://images6.alphacoders.com/983/983820.jpg);
+  --Settings-Background: url(https://images6.alphacoders.com/983/983820.jpg);
+  --Callout-Background: url(https://images6.alphacoders.com/983/983820.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Pulsefire Riven";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.75;
 }

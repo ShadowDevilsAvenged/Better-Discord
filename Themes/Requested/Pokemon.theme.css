@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/oZxz40A.jpg);
-  --Settings-Background: url(https://nfld99.com/Bkg/oZxz40A.jpg);
-  --Callout-Background: url(https://nfld99.com/Bkg/oZxz40A.jpg);
+  --Chat-Background: url(https://www.desktopbackground.org/p/2011/10/14/281120_pokemon-mystery-dungeon-red-rescue-team-computer-wallpapers_1920x1080_h.jpg);
+  --Settings-Background: url(https://www.desktopbackground.org/p/2011/10/14/281120_pokemon-mystery-dungeon-red-rescue-team-computer-wallpapers_1920x1080_h.jpg);
+  --Callout-Background: url(https://www.desktopbackground.org/p/2011/10/14/281120_pokemon-mystery-dungeon-red-rescue-team-computer-wallpapers_1920x1080_h.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Pokemon";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.65;
 }

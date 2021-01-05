@@ -38,20 +38,20 @@
 /* Use Chat Bubbles By Shiz */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 :root {
-  --Main-Colour: rgba(114,137,218,1);
+  --Main-Colour: rgb(114, 218, 178);
   --Background-Colour: rgba(40,40,40,1);
   --Secondary-Background-Colour: rgba(40,40,40,.3);
-  --Secondary-Main-Colour: rgba(114,137,218,.5);
+  --Secondary-Main-Colour: rgba(114, 218, 161, 0.5);
   --Text-Shadow-Colour: rgba(0,0,0,.65);
   --Scroller-Colour: rgba(114,137,218,0);
-  --Notification-Colour: rgba(114,137,218,1);
+  --Notification-Colour: rgb(114, 218, 178);
   --Chat-Input-Background: rgba(0,0,0,0);
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/PCoQwsk.png);
-  --Settings-Background: url(https://nfld99.com/Bkg/PCoQwsk.png);
-  --Callout-Background: url(https://nfld99.com/Bkg/PCoQwsk.png);
+  --Chat-Background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f0bbfe4e-ed9c-44c2-a77b-9ea999b1e226/ddajwkb-eacea92c-3a3a-41c0-927e-61d6baaa7704.png/v1/fill/w_1192,h_670,q_70,strp/_wallpaper_house_of_balance___hypesquad_by_xersinn_ddajwkb-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2YwYmJmZTRlLWVkOWMtNDRjMi1hNzdiLTllYTk5OWIxZTIyNlwvZGRhandrYi1lYWNlYTkyYy0zYTNhLTQxYzAtOTI3ZS02MWQ2YmFhYTc3MDQucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.35KTbousy4tKCJ_0ABS2ChfuMYicmOaaG_P9gbw0-gE);
+  --Settings-Background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f0bbfe4e-ed9c-44c2-a77b-9ea999b1e226/ddajwkb-eacea92c-3a3a-41c0-927e-61d6baaa7704.png/v1/fill/w_1192,h_670,q_70,strp/_wallpaper_house_of_balance___hypesquad_by_xersinn_ddajwkb-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2YwYmJmZTRlLWVkOWMtNDRjMi1hNzdiLTllYTk5OWIxZTIyNlwvZGRhandrYi1lYWNlYTkyYy0zYTNhLTQxYzAtOTI3ZS02MWQ2YmFhYTc3MDQucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.35KTbousy4tKCJ_0ABS2ChfuMYicmOaaG_P9gbw0-gE);
+  --Callout-Background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f0bbfe4e-ed9c-44c2-a77b-9ea999b1e226/ddajwkb-eacea92c-3a3a-41c0-927e-61d6baaa7704.png/v1/fill/w_1192,h_670,q_70,strp/_wallpaper_house_of_balance___hypesquad_by_xersinn_ddajwkb-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2YwYmJmZTRlLWVkOWMtNDRjMi1hNzdiLTllYTk5OWIxZTIyNlwvZGRhandrYi1lYWNlYTkyYy0zYTNhLTQxYzAtOTI3ZS02MWQ2YmFhYTc3MDQucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.35KTbousy4tKCJ_0ABS2ChfuMYicmOaaG_P9gbw0-gE);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " TopHyperSquad";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.65;
 }

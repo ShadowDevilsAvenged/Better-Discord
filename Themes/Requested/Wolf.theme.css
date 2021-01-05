@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/DUvyPVV.png);
-  --Settings-Background: url(https://nfld99.com/Bkg/DUvyPVV.png);
-  --Callout-Background: url(https://nfld99.com/Bkg/DUvyPVV.png);
+  --Chat-Background: url(https://images.alphacoders.com/786/78661.jpg);
+  --Settings-Background: url(https://images.alphacoders.com/786/78661.jpg);
+  --Callout-Background: url(https://images.alphacoders.com/786/78661.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Wolf";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.75;
 }

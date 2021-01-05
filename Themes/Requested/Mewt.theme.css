@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/JjLpD5h.png);
-  --Settings-Background: url(https://nfld99.com/Bkg/JjLpD5h.png);
-  --Callout-Background: url(https://nfld99.com/Bkg/JjLpD5h.png);
+  --Chat-Background: url(https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/109935953_133396191781885_6030297335822498530_o.jpg?_nc_cat=103&ccb=2&_nc_sid=dd9801&_nc_ohc=DmfUFNkTEgEAX_GYXaF&_nc_ht=scontent-lga3-1.xx&oh=6ba56f5f9844d59fc693d2b67453c0f6&oe=601A1203);
+  --Settings-Background: url(https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/109935953_133396191781885_6030297335822498530_o.jpg?_nc_cat=103&ccb=2&_nc_sid=dd9801&_nc_ohc=DmfUFNkTEgEAX_GYXaF&_nc_ht=scontent-lga3-1.xx&oh=6ba56f5f9844d59fc693d2b67453c0f6&oe=601A1203);
+  --Callout-Background: url(https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/109935953_133396191781885_6030297335822498530_o.jpg?_nc_cat=103&ccb=2&_nc_sid=dd9801&_nc_ohc=DmfUFNkTEgEAX_GYXaF&_nc_ht=scontent-lga3-1.xx&oh=6ba56f5f9844d59fc693d2b67453c0f6&oe=601A1203);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Mewt";
   --Chat-Font-Used: "Whitney";
@@ -67,14 +67,9 @@
   --File-Updated-2020-5-24: ;
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: var(--Main-Colour);
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.7;
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns); /* Set # of guild rows in Server Folders */
   --Chat-Avatar-Border-Radius: 10%;
 }
-[style*="avatars/325746166518251530"].avatar-large+ .comment strong:before,[style*="avatars/325746166518251530"].avatar-large+ .comment strong:after,
-[style*="avatars/322758556946530304"].avatar-large+ .comment strong:before,[style*="avatars/322758556946530304"].avatar-large+ .comment strong:after,
-[style*="avatars/187615613944856576"].avatar-large+ .comment strong:before,[style*="avatars/187615613944856576"].avatar-large+ .comment strong:after {
-  content: " 💖";
-  font-size: 15px;
-}
+

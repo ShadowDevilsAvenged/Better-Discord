@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/AQqjiNo.png);
-  --Settings-Background: url(https://nfld99.com/Bkg/AQqjiNo.png);
-  --Callout-Background: url(https://nfld99.com/Bkg/AQqjiNo.png);
+  --Chat-Background: url(https://drivetribe.imgix.net/TiGxqTTfQN6GYWywzutIMg?w=1200&h=675&fm=webp&auto=compress&lossless=true&fit=crop&crop=faces&dpr=2);
+  --Settings-Background: url(https://drivetribe.imgix.net/TiGxqTTfQN6GYWywzutIMg?w=1200&h=675&fm=webp&auto=compress&lossless=true&fit=crop&crop=faces&dpr=2);
+  --Callout-Background: url(https://drivetribe.imgix.net/TiGxqTTfQN6GYWywzutIMg?w=1200&h=675&fm=webp&auto=compress&lossless=true&fit=crop&crop=faces&dpr=2);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Tamuki AE86";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.75;
 }

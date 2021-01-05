@@ -51,9 +51,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/URDOIXG.jpg);
-  --Settings-Background: url(https://nfld99.com/Bkg/URDOIXG.jpg);
-  --Callout-Background: url(https://nfld99.com/Bkg/URDOIXG.jpg);
+  --Chat-Background: url(https://www.pixelstalk.net/wp-content/uploads/2016/06/Black-and-Red-Abstract-Mobile-Wallpaper.jpg);
+  --Settings-Background: url(https://www.pixelstalk.net/wp-content/uploads/2016/06/Black-and-Red-Abstract-Mobile-Wallpaper.jpg);
+  --Callout-Background: url(https://www.pixelstalk.net/wp-content/uploads/2016/06/Black-and-Red-Abstract-Mobile-Wallpaper.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Red Abstract";
   --Chat-Font-Used: "Aerolite" ;
@@ -72,5 +72,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.8;
+  --Background-Darkness: 0.7;
 }

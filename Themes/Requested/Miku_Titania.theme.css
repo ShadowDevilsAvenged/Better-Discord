@@ -49,7 +49,7 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/QMtdHH9.jpg);
+  --Chat-Background: url(https://static4.aniimg.com/upload/20180128/3811/1/t/h/1thUEF.jpg);
   --Settings-Background: url(https://nfld99.com/Bkg/QMtdHH9.jpg);
   --Callout-Background: url(https://nfld99.com/Bkg/QMtdHH9.jpg);
   --Title-Background: var(--Background-Colour);
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.65;
 }

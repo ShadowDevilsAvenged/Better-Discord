@@ -50,9 +50,9 @@
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
   --Chat-Background: transparent;
-  --Settings-Background: url(https://nfld99.com/Bkg/MDZ5xkD.png);
-  --Callout-Background: url(https://nfld99.com/Bkg/MDZ5xkD.png);
-  --Title-Background: url(https://nfld99.com/Bkg/MDZ5xkD.png);
+  --Settings-Background: url(https://4.bp.blogspot.com/-s_G3vCOGImw/VQfu_Qys61I/AAAAAAAAAFw/Uy3Fb-9zRbM/s1600/Miku_Rolling_Girl.jpg);
+  --Callout-Background: url(https://4.bp.blogspot.com/-s_G3vCOGImw/VQfu_Qys61I/AAAAAAAAAFw/Uy3Fb-9zRbM/s1600/Miku_Rolling_Girl.jpg);
+  --Title-Background: url(https://4.bp.blogspot.com/-s_G3vCOGImw/VQfu_Qys61I/AAAAAAAAAFw/Uy3Fb-9zRbM/s1600/Miku_Rolling_Girl.jpg);
   --Theme-Variant: " ローリンガール";
   --Chat-Font-Used: "Whitney";
   --Chat-Font-Size: 15px;
@@ -70,7 +70,7 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.7;
 }
 .container-16j22k,.app,.callout-backdrop,.modal-1UGdnR,.theme-dark .ui-standard-sidebar-view,.appMount-3VJmYg {
   background-size: 100% 100% !important;

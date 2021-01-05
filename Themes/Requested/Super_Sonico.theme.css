@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/hkzoS2S.jpg);
-  --Settings-Background: url(https://nfld99.com/Bkg/hkzoS2S.jpg);
-  --Callout-Background: url(https://nfld99.com/Bkg/hkzoS2S.jpg);
+  --Chat-Background: url(https://images8.alphacoders.com/972/972079.jpg);
+  --Settings-Background: url(https://images8.alphacoders.com/972/972079.jpg);
+  --Callout-Background: url(https://images8.alphacoders.com/972/972079.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Super Sonico";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.43;
+  --Background-Darkness: 0.73;
 }

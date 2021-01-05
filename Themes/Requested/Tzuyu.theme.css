@@ -49,9 +49,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://nfld99.com/Bkg/vfVo2Hz.png);
-  --Settings-Background: url(https://nfld99.com/Bkg/vfVo2Hz.png);
-  --Callout-Background: url(https://nfld99.com/Bkg/vfVo2Hz.png);
+  --Chat-Background: url(https://dbkpop.com/wp-content/uploads/2017/10/twice_one_more_time_tzuyu_3.jpg);
+  --Settings-Background: url(https://dbkpop.com/wp-content/uploads/2017/10/twice_one_more_time_tzuyu_3.jpg);
+  --Callout-Background: url(https://dbkpop.com/wp-content/uploads/2017/10/twice_one_more_time_tzuyu_3.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Tzuyu";
   --Chat-Font-Used: "Whitney";
@@ -70,5 +70,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.67;
+  --Background-Darkness: 0.77;
 }
