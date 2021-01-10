@@ -4148,7 +4148,7 @@ svg[name="Nova_Download"]{
 
 /* ======================================Canary fix for 2019-01-12 I hope====================================== */
 
-.theme-dark .tooltipBlack-PPG47z {
+.theme-dark .tooltipPrimary-1d1ph4 {
   background: linear-gradient(to top, var(--Secondary-Main-Colour), var(--Background-Colour), var(--Background-Colour), var(--Secondary-Main-Colour));
   color: var(--Main-Colour);
 }
@@ -4174,7 +4174,7 @@ svg[name="Nova_Download"]{
   z-index: 1002;
 }
 
-.tooltip-2QfLtc .tooltipBlack-PPG47z .tooltipRight-2JM5PQ:after {
+.tooltip-2QfLtc .tooltipPrimary-1d1ph4 .tooltipRight-2JM5PQ:after {
   border-right-color: var(--Background-Colour);
 }
 
