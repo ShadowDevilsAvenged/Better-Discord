@@ -4221,67 +4221,40 @@ svg[name="Nova_Download"]{
   background-color: var(--Secondary-Background-Colour);
 }
 
-.theme-dark .tab-2j5AEF.selected-2LAck8, .theme-dark .tab-2j5AEF:hover {
-  border-bottom: 2px solid var(--Main-Colour);
+.theme-dark .tab-2j5AEF.selected-2LAck8 {
+  background-color: var(--Main-Colour);
 }
 
-.theme-dark .channelSeparator-1DOiGt .channelName-1JRO3C {
+.theme-dark .tab-2j5AEF:hover {
+  background-color: var(--Secondary-Main-Colour);
+}
+
+.theme-dark .tab-2j5AEF {
+  color: white;
+}
+
+.emptyChannelIcon-3IXV5M {
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, .26);
+}
+
+
+.theme-dark  .channelName-1JRO3C {
   background: transparent;
   color: var(--Main-Colour);
 }
 
-.theme-dark .channelSeparator-1DOiGt:before {
-  border-color: var(--Secondary-Main-Colour);
-}
 
-.channelSeparator-1DOiGt:before {
-  border-bottom: 1px solid var(--Secondary-Main-Colour);
-}
-
-.theme-dark .searchResult-9tQ1uo:before, .searchResult-9tQ1uo:before, .theme-dark .searchResult-9tQ1uo:after, .searchResult-9tQ1uo:after {
-  background-image: linear-gradient(360deg, transparent, transparent);
-}
-
-.theme-dark .searchResult-9tQ1uo .hit-1fVM9e {
-  background-color: var(--Secondary-Background-Colour);
-  box-shadow: 0 0 5px 3px var(--Secondary-Main-Colour);
-  /* transition: all 200ms; */
-}
-
-.theme-dark .searchResult-9tQ1uo .hit-1fVM9e:hover {
-  background-color: var(--Secondary-Background-Colour);
-  box-shadow: 0 0 10px 6px var(--Main-Colour);
-  /* transition: all 200ms; */
-}
-
-.theme-dark .jumpButton-JkYoYK {
+.theme-dark .button-11zvza {
   background-color: var(--Secondary-Background-Colour);
   color: var(--Secondary-Main-Colour);
   border: 1px solid var(--Secondary-Main-Colour);
 }
 
-.theme-dark .jumpButton-JkYoYK:hover {
+.theme-dark .button-11zvza:hover {
   background-color: var(--Secondary-Background-Colour);
   color: var(--Main-Colour);
   border: 1px solid var(--Main-Colour);
-}
-
-.theme-dark .searchResult-9tQ1uo.expanded-w_LCGl {
-  border: 2px solid var(--Secondary-Main-Colour);
-  /* transition: all 200ms; */
-}
-
-.theme-dark .searchResult-9tQ1uo.expanded-w_LCGl:hover {
-  border: 2px solid var(--Main-Colour);
-  /* transition: all 200ms; */
-}
-
-.theme-dark .searchResult-9tQ1uo.expanded-w_LCGl .searchResultMessage-1fxgXh.hit-1fVM9e {
-  -webkit-box-sizing: border-box;
-  background-color: var(--Secondary-Background-Colour);
-  border-bottom: 2px solid var(--Secondary-Main-Colour);
-  border-top: 2px solid var(--Secondary-Main-Colour);
-  box-sizing: border-box;
 }
 
 .top-28JiJ- .item-PXvHYJ {
