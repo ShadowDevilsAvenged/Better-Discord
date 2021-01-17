@@ -4148,7 +4148,7 @@ svg[name="Nova_Download"]{
 
 /* ======================================Canary fix for 2019-01-12 I hope====================================== */
 
-.theme-dark .tooltipPrimary-1d1ph4 {
+.theme-dark .tooltipPrimary-1d1ph4, .theme-light .tooltipPrimary-1d1ph4 {
   background: linear-gradient(to top, var(--Secondary-Main-Colour), var(--Background-Colour), var(--Background-Colour), var(--Secondary-Main-Colour));
   color: var(--Main-Colour);
 }
