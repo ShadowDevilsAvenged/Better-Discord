@@ -439,10 +439,9 @@ a {
   color: #00e5ff;
   background: #d6ff00;
   font-weight: 500;
-  /* transition: background-color .05s,color .05s; */
+  /* transition: background-color .05s,color .05s; 
 }
 */
-
 .separator-gCa7yv, #bd-settings-sidebar .ui-tab-bar-separator {
   background: var(--Secondary-Main-Colour)!important;
 }
