@@ -1,34 +1,32 @@
 /**
- * @name Relaxation
- * @author Shiz 
- * @version ersion auto updates
- * @description Relaxation theme by Shiz based on NFLD99's template    |   Github: https://git.io/v7ovg
- * @source https://nfld99.com/shiz.html
- * @website https://nfld99.com/
- * @patreon https://nfld99.com/patreon
- * @authorLink https://discordhub.com/profile/483413721876529174
- * @donate https://nfld99.com/paypal
- * @authorId 483413721876529174
- * @invite 9ArHYa9
+* @name Relaxation
+* @author Shiz 
+* @version ersion auto updates
+* @description Relaxation theme by Shiz based on NFLD99's template    |   Github: https://git.io/v7ovg
+* @source https://github.com/ShadowDevilsAvenged/Better-Discord
+* @authorLink https://discordhub.com/profile/235302947058089984
+* @donate https://paypal.me/kennethiwelumo1?locale.x=en_US
+* @authorId 235302947058089984
+* @invite VsWy8Ca
 */
 
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Animations/Yes.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/Yes.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Popup/No.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Channels/No.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Chat_Title_Bar/No.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Invites/Yes.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Members/No.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Windows_Bar/No.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Offline/Yes.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Popout_Footer/No.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Transparency/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Master_Code.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Chat_Bubbles/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Animations/Yes.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Fonts/Yes.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Popup/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Channels/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Chat_Title_Bar/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Invites/Yes.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Members/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Windows_Bar/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Offline/Yes.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Popout_Footer/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Transparency/No.css);
 /* Full width roles on profile pop-out */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Full_Width_Roles/Yes.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Full_Width_Roles/Yes.css);
 /* Use Chat Bubbles By Shiz */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Chat_Bubbles/No.css);
   :root{
 	--Background-Colour: #000000;
 	--Chat-Input-Background: rgba(39, 217, 248, 0);

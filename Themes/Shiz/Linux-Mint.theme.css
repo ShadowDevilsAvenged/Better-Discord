@@ -1,47 +1,45 @@
 /** 
- * @name Linux-Mint
- * @author Shiz
- * @version ersion auto updates
- * @description Linux-Mint theme created by Shiz using NFLD99's template.    |   Github: https://git.io/v7ovg
- * @source https://nfld99.com/shiz.html
- * @website https://nfld99.com/
- * @patreon https://nfld99.com/patreon
- * @authorLink https://discordhub.com/profile/483413721876529174
- * @donate https://nfld99.com/paypal
- * @authorId 483413721876529174
- * @invite 9ArHYa9
+* @name Linux-Mint
+* @author Shiz
+* @version ersion auto updates
+* @description Linux-Mint theme created by Shiz using NFLD99's template.    |   Github: https://git.io/v7ovg
+* @source https://github.com/ShadowDevilsAvenged/Better-Discord
+* @authorLink https://discordhub.com/profile/235302947058089984
+* @donate https://paypal.me/kennethiwelumo1?locale.x=en_US
+* @authorId 235302947058089984
+* @invite VsWy8Ca
 */
 
 /* Sorce Code */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Master_Code.css);
 /* Use Chat Bubbles By Shiz */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 /* Animations */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Animations/Yes.css);
-/* Fonts https://nfld99.github.io/Better-Discord/Font_List.txt */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/Yes.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Animations/Yes.css);
+/* Fonts https://ShadowDevilsAvenged.github.io/Font_List.txt */
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Fonts/Yes.css);
 /* Settings Dock */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Popup/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Popup/No.css);
 /* Channels */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Channels/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Channels/No.css);
 /* Chat Title Bar */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Chat_Title_Bar/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Chat_Title_Bar/No.css);
 /* Invites */ 
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Invites/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Invites/No.css);
 /* Member List */ 
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Members/Yes.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Members/Yes.css);
 /* Windows Bar */ 
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Windows_Bar/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Windows_Bar/No.css);
 /* Offline Members */ 
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Offline/Yes.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Offline/Yes.css);
 /* User Popout Footer */ 
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Popout_Footer/Yes.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Popout_Footer/Yes.css);
  /* Full width roles on profile pop-out */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Full_Width_Roles/Yes.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Full_Width_Roles/Yes.css);
 /* Transparency Patch */ 
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Transparency/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Transparency/No.css);
 /* Use Chat Bubbles By Shiz */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 
 :root {
     --Main-Colour: rgb(181, 248, 136);
