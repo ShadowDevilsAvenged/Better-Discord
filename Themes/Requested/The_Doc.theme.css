@@ -1,5 +1,5 @@
 /**
-* @name CryptOfTheNacrodancer
+* @name The_Doc
 * @author NFLD99(now taking control by ShadowDevilsAvenged)
 * @version ersion auto updates
 * @description Thank you for choosing NFLD Inc(now taking control by ShadowDevilsAvenged)!
@@ -36,22 +36,22 @@
 /* Use Chat Bubbles By Shiz */
 @import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 :root {
-  --Main-Colour: rgba(56,134,165,1);
-  --Background-Colour: rgba(55,55,41,1);
-  --Secondary-Background-Colour: rgba(55,55,41,.3);
-  --Secondary-Main-Colour: rgba(56,134,165,.5);
+  --Main-Colour: rgba(0,132,234,1);
+  --Background-Colour: rgba(0,0,0,1);
+  --Secondary-Background-Colour: rgba(0,0,0,.3);
+  --Secondary-Main-Colour: rgba(0,132,234,.5);
   --Text-Shadow-Colour: rgba(0,0,0,.65);
-  --Scroller-Colour: rgba(56,134,165,0);
-  --Notification-Colour: rgba(56,134,165,1);
+  --Scroller-Colour: rgba(0,132,234,0);
+  --Notification-Colour: rgba(0,132,234,1);
   --Chat-Input-Background: rgba(0,0,0,0);
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/007ebd6a-6e7f-47a0-8d17-77a93343886e/da50s8i-80108176-3c45-471b-845e-53f1c51f4eac.png/v1/fill/w_1024,h_576,q_80,strp/minimal_cadence_crypt_of_the_necrodancer_wallpaper_by_theztret00_da50s8i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01NzYiLCJwYXRoIjoiXC9mXC8wMDdlYmQ2YS02ZTdmLTQ3YTAtOGQxNy03N2E5MzM0Mzg4NmVcL2RhNTBzOGktODAxMDgxNzYtM2M0NS00NzFiLTg0NWUtNTNmMWM1MWY0ZWFjLnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.dU-quavrico1gLebgXWpwyuvtfmajQFnQ-DxEyIFHCk);
-  --Settings-Background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/007ebd6a-6e7f-47a0-8d17-77a93343886e/da50s8i-80108176-3c45-471b-845e-53f1c51f4eac.png/v1/fill/w_1024,h_576,q_80,strp/minimal_cadence_crypt_of_the_necrodancer_wallpaper_by_theztret00_da50s8i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01NzYiLCJwYXRoIjoiXC9mXC8wMDdlYmQ2YS02ZTdmLTQ3YTAtOGQxNy03N2E5MzM0Mzg4NmVcL2RhNTBzOGktODAxMDgxNzYtM2M0NS00NzFiLTg0NWUtNTNmMWM1MWY0ZWFjLnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.dU-quavrico1gLebgXWpwyuvtfmajQFnQ-DxEyIFHCk);
-  --Callout-Background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/007ebd6a-6e7f-47a0-8d17-77a93343886e/da50s8i-80108176-3c45-471b-845e-53f1c51f4eac.png/v1/fill/w_1024,h_576,q_80,strp/minimal_cadence_crypt_of_the_necrodancer_wallpaper_by_theztret00_da50s8i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01NzYiLCJwYXRoIjoiXC9mXC8wMDdlYmQ2YS02ZTdmLTQ3YTAtOGQxNy03N2E5MzM0Mzg4NmVcL2RhNTBzOGktODAxMDgxNzYtM2M0NS00NzFiLTg0NWUtNTNmMWM1MWY0ZWFjLnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.dU-quavrico1gLebgXWpwyuvtfmajQFnQ-DxEyIFHCk);
+  --Chat-Background: url(https://wallpaperset.com/w/full/b/1/9/38071.jpg);
+  --Settings-Background: url(https://wallpaperset.com/w/full/b/1/9/38071.jpg);
+  --Callout-Background: url(https://wallpaperset.com/w/full/b/1/9/38071.jpg);
   --Title-Background: var(--Background-Colour);
-  --Theme-Variant: " CryptOfTheNacrodancer";
+  --Theme-Variant: " The Doc";
   --Chat-Font-Used: "Whitney";
   --Chat-Font-Size: 15px;
   --Unread-Message-Speed: 1.5s;
