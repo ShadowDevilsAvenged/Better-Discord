@@ -122,7 +122,7 @@
   }
 .contentSelectedText-3wUhMi, .content-3at_AU, .contentSelectedVoice-1WDIBM, .channel-2QD9_O.selected-1HYmZZ a {
   background-color: var(--main-colour);
-  border: 2px solid var(--main-colour)
+  border: 2px solid var(--main-colour);
   border-bottom: 2px solid black;
   border-top-left-radius: 20px;
   border-bottom-right-radius: 20px;
