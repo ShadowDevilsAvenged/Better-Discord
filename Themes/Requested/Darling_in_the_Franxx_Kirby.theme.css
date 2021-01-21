@@ -1,0 +1,72 @@
+/**
+* @name Darling_in_the_Franxx_Kirby
+* @author NFLD99(now taking control by ShadowDevilsAvenged)
+* @version ersion auto updates
+* @description Thank you for choosing NFLD Inc(now taking control by ShadowDevilsAvenged)!
+* @source https://github.com/ShadowDevilsAvenged/Better-Discord
+* @authorLink https://discordhub.com/profile/235302947058089984
+* @donate https://paypal.me/kennethiwelumo1?locale.x=en_US
+* @authorId 235302947058089984
+* @invite VsWy8Ca
+*/
+/* Source Code */
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Master_Code.css);
+/* Animations */
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Animations/No.css);
+/* Fonts https://ShadowDevilsAvenged.github.io/Font_List.txt */
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Fonts/Yes.css);
+/* Settings Dock */
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Popup/Yes.css);
+/* Channels */
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Channels/No.css);
+/* Chat Title Bar */
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Chat_Title_Bar/No.css);
+/* Invites */ 
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Invites/No.css);
+/* Member List */ 
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Members/No.css);
+/* Windows Bar */ 
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Windows_Bar/No.css);
+/* Offline Members */ 
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Offline/No.css);
+/* User Popout Footer */ 
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Hide/Popout_Footer/Yes.css);
+/* Transparency Patch */ 
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Transparency/No.css);
+/* Use Chat Bubbles By Shiz */
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Chat_Bubbles/No.css);
+:root {
+  --Main-Colour: rgba(232,94,94,1);
+  --Background-Colour: rgba(59,29,52,1);
+  --Secondary-Background-Colour: rgba(59,29,52,.3);
+  --Secondary-Main-Colour: rgba(232,94,94,.5);
+  --Text-Shadow-Colour: rgba(59,29,52,.65);
+  --Scroller-Colour: rgba(232,94,94,0);
+  --Notification-Colour: rgba(232,94,94,1);
+  --Chat-Input-Background: rgba(59,29,52,0);
+  --Chat-Input-Colour: var(--Main-Colour) ;
+  --Unread-Message-1: var(--Main-Colour) ;
+  --Unread-Message-2: var(--Background-Colour) ;
+  --Chat-Background: url(https://images2.alphacoders.com/910/910141.jpg);
+  --Settings-Background: url(https://images2.alphacoders.com/910/910141.jpg);
+  --Callout-Background: url(https://images2.alphacoders.com/910/910141.jpg);
+  --Title-Background: var(--Background-Colour);
+  --Theme-Variant: " Darling in the Franxx Kirby";
+  --Chat-Font-Used: "Whitney";
+  --Chat-Font-Size: 15px;
+  --Unread-Message-Speed: 1.5s;
+  --Popout-Main-Colour: var(--Main-Colour);
+  --Popout-Background: var(--Chat-Background);
+  --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
+  --Emote-Popout-Background: var(--Secondary-Background-Colour);
+  --load1: "Thank You!";
+  --load2: "Please Enjoy!";
+  --load3: "➢NFLD99";
+  --File-Updated-2020-5-24: ;
+  --Settings-Dock-Colour: var(--Main-Colour);
+  --Timestamp-Colour: var(--Secondary-Main-Colour);
+  --Guild-Columns: 2;
+  --ServerFolders-Guild-Columns: var(--Guild-Columns);
+  --Chat-Avatar-Border-Radius: 10%;
+  --Background-Darkness: 0.57;
+}
