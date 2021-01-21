@@ -47,9 +47,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://images8.alphacoders.com/966/966344.jpg);
-  --Settings-Background: url(https://images8.alphacoders.com/966/966344.jpg);
-  --Callout-Background: url(https://images8.alphacoders.com/966/966344.jpg);
+  --Chat-Background: url(http://pm1.narvii.com/6871/dd5edbc5a65e99525fea7c7a8d5ed454f77ee941r1-1457-1049v2_uhq.jpg);
+  --Settings-Background: url(http://pm1.narvii.com/6871/dd5edbc5a65e99525fea7c7a8d5ed454f77ee941r1-1457-1049v2_uhq.jpg);
+  --Callout-Background: url(http://pm1.narvii.com/6871/dd5edbc5a65e99525fea7c7a8d5ed454f77ee941r1-1457-1049v2_uhq.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Anime";
   --Chat-Font-Used: "Whitney";
@@ -68,5 +68,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.65;
+  --Background-Darkness: 0.73;
 }

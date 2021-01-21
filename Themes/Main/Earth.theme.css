@@ -49,8 +49,8 @@
   --Unread-Message-2: var(--Background-Colour);
   --Chat-Background: Transparent;
   --Settings-Background: Transparent;
-  --Callout-Background: url(https://images2.alphacoders.com/675/675256.jpg);
-  --Title-Background: url(https://images2.alphacoders.com/675/675256.jpg);
+  --Callout-Background: url(https://i.imgur.com/tuhZkjn.png);
+  --Title-Background: url(https://i.imgur.com/tuhZkjn.png);
   --Theme-Variant: "Earth ";
   --Chat-Font-Used: "Whitney";
   --Chat-Font-Size: 15px;
@@ -65,7 +65,7 @@
   --File-Updated-2020-5-24: ;
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: var(--Main-Colour);
-  --Background-Darkness: 0.7;
+  --Background-Darkness: 0.4;
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns); /* Set # of guild rows in Server Folders */
   --Chat-Avatar-Border-Radius: 10%;

@@ -14,7 +14,7 @@
 /* Animations */
 @import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Animations/No.css);
 /* Fonts https://ShadowDevilsAvenged.github.io/Font_List.txt */
-@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Fonts/No.css);
+@import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Fonts/Yes.css);
 /* Settings Dock */
 @import url(https://ShadowDevilsAvenged.github.io/Source_Code/Addons/Use_Popup/Yes.css);
 /* Channels */
@@ -47,9 +47,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://images8.alphacoders.com/108/1087227.jpg);
-  --Settings-Background: url(https://images8.alphacoders.com/108/1087227.jpg);
-  --Callout-Background: url(https://images8.alphacoders.com/108/1087227.jpg);
+  --Chat-Background: url(http://i2.hdslb.com/bfs/archive/981905b1783528eab5779a767bfca81ac5d4ee03.jpg);
+  --Settings-Background: url(http://i2.hdslb.com/bfs/archive/981905b1783528eab5779a767bfca81ac5d4ee03.jpg);
+  --Callout-Background: url(http://i2.hdslb.com/bfs/archive/981905b1783528eab5779a767bfca81ac5d4ee03.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " Asian Beauty";
   --Chat-Font-Used: "Whitney";
@@ -68,5 +68,5 @@
   --Guild-Columns: 2;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.4;
+  --Background-Darkness: 0.5;
 }
